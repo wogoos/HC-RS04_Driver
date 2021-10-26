@@ -7,4 +7,4 @@ Library for HCRS04 type remote sensors with :
         * FIR filter parameter setting
         * Noise window setting
         * Temperature compensation
-        
+        * Initialiation of the FIR output startup value
